@@ -1,5 +1,5 @@
 # Sentiment-analysis
-This is a project I worked on which performs sentiment analysis on a kaggle dataset.
+This is a project I worked on which I performed sentiment analysis on a kaggle dataset.
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download
 
 About Dataset
